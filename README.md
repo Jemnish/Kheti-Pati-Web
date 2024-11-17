@@ -5,9 +5,6 @@ Kheti Pati is an online platform designed to connect farmers and sellers, allowi
 
 
 
-## Youtube Video Link
-
-[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 ## Features
